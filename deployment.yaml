@@ -13,7 +13,7 @@ spec:
         run: test 
     spec: 
       containers: 
-      - name: test 
+      - name: angular 
         image: houssemdocker/angular-app:819
         ports: 
         - containerPort: 80 
