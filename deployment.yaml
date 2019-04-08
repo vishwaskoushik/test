@@ -14,6 +14,6 @@ spec:
     spec: 
       containers: 
       - name: test 
-        image: houssemdocker/angular-app:#{Build.BuildId}#
+        image: houssemdocker/angular-app:819
         ports: 
         - containerPort: 80 
